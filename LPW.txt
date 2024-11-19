@@ -1,0 +1,1 @@
+Implement a python appl;ication for the Hospital Management system(HMS), build a HMS image of the docker and deploy it using a docker desktop upload a HMS with a docker image into the GitHub repo.
